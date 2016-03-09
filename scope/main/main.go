@@ -2,13 +2,10 @@ package main
 
 import "fmt"
 
-/*var x string = " Hi guys"
-func increment() string {
-
-	return x +" " + "abc"
-}*/
 
 func main(){
+
+	//var a string = "I am a very good boy"
 	x:= 1
 	increment := func () int{
 		x++
